@@ -4,11 +4,8 @@
 
 > A startup program that switches the wallpaper every time someone logs in, just for fun!
 
-## Code Samples
-
-
-
 ## Installation
+##### Warning: This program requires the installation of Python 3.x, which can be installed from here: https://www.python.org/downloads/
 
 > To install, simply download the project to a file in your Downloads folder!
 
